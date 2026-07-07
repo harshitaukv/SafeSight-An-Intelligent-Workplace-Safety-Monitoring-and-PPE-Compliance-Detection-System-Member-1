@@ -1,0 +1,12 @@
+ultralytics
+opencv-python
+streamlit
+numpy
+pandas
+matplotlib
+pillow
+scikit-learn
+pyyaml
+tqdm
+supervision
+label-studio-sdk
